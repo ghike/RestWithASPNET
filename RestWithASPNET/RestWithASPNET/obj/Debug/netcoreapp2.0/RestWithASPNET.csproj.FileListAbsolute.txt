@@ -1,0 +1,11 @@
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.0\RestWithASPNET.deps.json
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.0\RestWithASPNET.runtimeconfig.json
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.0\RestWithASPNET.runtimeconfig.dev.json
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.0\RestWithASPNET.dll
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\bin\Debug\netcoreapp2.0\RestWithASPNET.pdb
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.0\RestWithASPNET.csprojAssemblyReference.cache
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.0\RestWithASPNET.csproj.CoreCompileInputs.cache
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.0\RestWithASPNET.AssemblyInfoInputs.cache
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.0\RestWithASPNET.AssemblyInfo.cs
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.0\RestWithASPNET.dll
+C:\Users\Estagiário 04\Desktop\RESTAULAS\RestWithASPNET\RestWithASPNET\RestWithASPNET\obj\Debug\netcoreapp2.0\RestWithASPNET.pdb
