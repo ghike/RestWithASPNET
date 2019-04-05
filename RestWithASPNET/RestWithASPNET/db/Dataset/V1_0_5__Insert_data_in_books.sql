@@ -1,0 +1,15 @@
+INSERT INTO `books` (`Id`, `Author`, `Title`, `LaunchDate`, `Price`) VALUES
+	('01A', 'Michael C. Feathers', 'Working effectively with legacy code', '2017-11-29 13:50:05.878000', 49.00),
+	('02A', 'Ralph Johnson, Erich Gamma, John Vlissides e Richard Helm', 'Design Patterns', '2017-11-29 15:15:13.636000', 45.00),
+	('03A', 'Robert C. Martin', 'Clean Code', '2009-01-10 00:00:00.000000', 77.00),
+	('04A', 'Crockford', 'JavaScript', '2017-11-07 15:09:01.674000', 67.00),
+	('05A', 'Steve McConnell', 'Code complete' , '2017-11-07 15:09:01.674000', 58.00),
+	('06A', 'Martin Fowler e Kent Beck', 'Refactoring' , '2017-11-07 15:09:01.674000', 88.00),
+	('08A', 'Eric Evans', 'Head First Design Patterns', '2017-11-07 15:09:01.674000', 92.00),
+	('09A', 'Brian Goetz e Tim Peierls', 'Java Concurrency in Practice', '2017-11-07 15:09:01.674000', 80.00),
+	('010A', 'Susan Cain', 'O poder dos quietos', '2017-11-07 15:09:01.674000', 123.00),
+	('011A', 'Roger S. Pressman', 'Engenharia de Software: uma abordagem profissional', '2017-11-07 15:09:01.674000', 56.00),
+	('01B', 'Viktor Mayer-Schonberger e Kenneth Kukier', 'Big Data: como extrair volume, variedade, velocidade e valor da avalanche de informação cotidiana', '2017-11-07 15:09:01.674000', 54.00),
+	('02B', 'Richard Hunter e George Westerman', 'O verdadeiro valor de TI', '2017-11-07 15:09:01.674000', 95.00),
+	('03B', 'Marc J. Schiller', 'Os 11 segredos de líderes de TI altamente influentes', '2017-11-07 15:09:01.674000', 45.00),
+	('04B', 'Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu', 'Implantando a governança de TI', '2017-11-07 15:09:01.674000', 54.00);

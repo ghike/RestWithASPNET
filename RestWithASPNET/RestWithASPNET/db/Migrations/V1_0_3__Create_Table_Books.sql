@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `books` (
+`Id` varchar(127) NOT NULL,
+`Author` LONGTEXT,
+`Title` LONGTEXT,
+`LaunchDate` DATETIME(6) NOT NULL,
+`Price` DECIMAL(65,2) NOT NULL,
+PRIMARY KEY (`Id`)
+)
+ENGINE=INNODB;
